@@ -1,0 +1,21 @@
+/* || while description is still active ~ 
+then support the modal appearance*/
+.active-modal-description {
+	display: flex;
+	flex-direction: column;
+	height: fit-content !important;
+	transform: scale(1.05);
+	box-shadow: 0px 4px 12px rgb(0, 0, 0);
+	margin-bottom: 50px !important;
+}
+.active-modal-img{
+	transform: translateY(-25px);
+}
+.active-drop-btn{
+	display: flex;
+}
+.active-button{
+	align-content: center;
+	padding-bottom: 8px !important;
+}
+
